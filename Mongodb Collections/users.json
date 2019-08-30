@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5d666803a06aed3f9c000f72"},"name":"younes","email":"younes@gmail.com","password":"$2y$10$/JL17qMpL1uPmWPk3X3hE.r9.IMJ1vmEG9RvjrdNV.RNIdlcNck3u","updated_at":{"$date":{"$numberLong":"1566992387000"}},"created_at":{"$date":{"$numberLong":"1566992387000"}}}
+{"_id":{"$oid":"5d6668c1a06aed3f9c000f73"},"name":"simo","email":"simo@gmail.com","password":"$2y$10$6X.VmLdtGPdaDBSrB5kNkuItstSVONePzl4oujMdnzpf/SE5wyAUu","updated_at":{"$date":{"$numberLong":"1566992577000"}},"created_at":{"$date":{"$numberLong":"1566992577000"}}}
